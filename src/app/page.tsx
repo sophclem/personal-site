@@ -1,7 +1,7 @@
 export default function Home() {
     return (
       <main className="flex min-h-screen flex-col items-center justify-center bg-gray-100">
-        <h1 className="text-5xl font-bold text-blue-600">Hello, Next.js + Tailwind!</h1>
+        <h1 className="text-5xl font-bold text-blue-600">Hello, Sophie!</h1>
         <p className="mt-4 text-lg text-gray-700">Your first full-featured website is running 🚀</p>
       </main>
     );
